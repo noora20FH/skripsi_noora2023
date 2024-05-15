@@ -1,0 +1,101 @@
+Order ID,Customer ID,Product ID,Product Name,Price,Order Date,Quantity
+10000,10.0,1E4QCQ,Heavy Duty Headphones (Red),122.28,2024-04-04,2
+10001,6.0,I4VEH4,Portable Speaker (Red),21.82,2024-04-24,4
+10002,,6JARG4,Gaming Speaker (Gray),174.39,2024-04-03,4
+10003,8.0,HLOLSB,Heavy Duty Speaker (Black),37.95,2024-04-29,4
+10004,10.0,5HTLAE,Gaming Speaker (White),176.45,2024-04-24,1
+10005,8.0,TWT85D,Smart Watch (Red),157.29,2024-04-03,2
+10006,8.0,XJJC39,Wireless Speaker (Red),93.15,2024-04-24,2
+10007,2.0,WUCS53,Wireless Speaker (Black),68.79,2024-04-15,3
+10008,4.0,C65Q28,Wireless Charger (Red),148.54,2024-04-29,3
+10009,2.0,DXHSUX,Smart Charger (Black),135.74,2024-04-29,4
+10010,3.0,JXMWBE,Gaming Shirt (Blue),141.2,2024-04-28,5
+10011,,810JQ9,Heavy Duty Headphones (Black),115.73,2024-04-26,3
+10012,4.0,0FE697,Gaming Watch (Black),137.6,2024-04-06,3
+10013,7.0,QHNGKU,Smart Speaker (Black),17.14,2024-04-12,5
+10014,2.0,JV37RN,Gaming Watch (Gray),19.98,2024-04-24,2
+10015,9.0,6XHS78,Wireless Charger (Black),185.75,2024-04-02,2
+10016,3.0,F5V8JP,Gaming Charger (White),45.24,2024-04-20,5
+10017,5.0,ZT2G9H,Portable Headphones (White),100.31,2024-04-12,1
+10018,10.0,9NP82W,Heavy Duty Headphones (Blue),149.42,2024-04-02,4
+10019,3.0,CP4XZF,Heavy Duty Headphones (Gray),134.62,2024-04-23,3
+10020,2.0,QTM534,Heavy Duty Speaker (White),62.94,2024-04-08,5
+10021,4.0,496PJ5,Wireless Shirt (Blue),176.44,2024-04-15,4
+10022,4.0,6HXSVH,Heavy Duty Speaker (Gray),26.46,2024-04-20,1
+10023,9.0,EQPDST,Portable Headphones (Black),60.22,2024-04-01,4
+10024,4.0,VQR1TX,Portable Watch (White),38.67,2024-04-10,1
+10025,3.0,EN5078,Heavy Duty Headphones (Gray),150.19,2024-04-12,4
+10026,3.0,VPPFR5,Smart Shirt (Gray),33.94,2024-04-21,5
+10027,5.0,VP4CS7,Smart Charger (Black),158.34,2024-04-23,3
+10028,6.0,RYN6HB,Smart Watch (White),106.17,2024-04-15,2
+10029,1.0,XEZZQP,Heavy Duty Speaker (Gray),144.86,2024-04-04,5
+10030,1.0,ATI04N,Wireless Headphones (Black),145.04,2024-04-15,3
+10031,5.0,ECTRK2,Smart Charger (Black),80.75,2024-04-10,3
+10032,10.0,KZAOQC,Portable Headphones (Red),56.06,2024-04-13,5
+10033,6.0,P3Q7VH,Wireless Speaker (Black),17.22,2024-04-19,3
+10034,6.0,TH2IAV,Smart Speaker (White),52.05,2024-04-22,2
+10035,,4CK739,Smart Headphones (Gray),53.42,2024-04-16,4
+10036,,8421CV,Smart Headphones (White),119.05,2024-04-26,2
+10037,2.0,JPIBJU,Gaming Watch (Gray),107.2,2024-04-03,5
+10038,3.0,LQ1Z6O,Smart Headphones (Red),53.06,2024-04-08,1
+10039,1.0,Q4MPM5,Gaming Shirt (Black),146.07,2024-04-25,3
+10040,7.0,GFP8WQ,Wireless Speaker (Black),-50.0,2024-04-26,5
+10041,9.0,NNJY5Y,Gaming Watch (White),175.66,2024-04-10,4
+10042,1.0,XEVMZ6,Gaming Speaker (Black),-50.0,2024-04-12,3
+10043,4.0,VQMJKY,Portable Charger (Gray),33.36,2024-04-08,3
+10044,8.0,EYKFZN,Gaming Speaker (Red),117.43,2024-04-18,3
+10045,10.0,4M9MG6,Gaming Shirt (White),176.7,2024-04-16,5
+10046,10.0,P2HEOS,Heavy Duty Charger (Black),92.22,2024-04-27,5
+10047,,1WBCP9,Portable Watch (Blue),193.48,2024-04-23,5
+10048,4.0,WM1LQX,Heavy Duty Charger (Black),70.12,2024-04-12,3
+10049,10.0,5MJ60V,Portable Shirt (Gray),174.84,2024-04-03,2
+10050,1.0,AJ213S,Heavy Duty Headphones (Red),120.62,2024-04-13,2
+10051,7.0,N3MTUS,Wireless Watch (Red),116.76,2024-04-21,1
+10052,6.0,A14IFR,Wireless Headphones (Blue),80.61,2024-04-03,2
+10053,5.0,19U4XF,Wireless Headphones (Red),147.39,2024-04-03,3
+10054,4.0,ERD8EJ,Portable Speaker (Blue),110.49,2024-04-08,1
+10055,4.0,M6AJRK,Smart Charger (Blue),19.66,2024-04-24,1
+10056,4.0,7E4HNU,Smart Charger (Blue),60.18,2024-04-17,1
+10057,2.0,69432M,Wireless Shirt (White),27.87,2024-04-27,3
+10058,7.0,UBPXKL,Heavy Duty Watch (Blue),111.36,2024-04-28,4
+10059,,1PHDX0,Portable Speaker (Gray),159.14,2024-04-23,1
+10060,10.0,TGLK0A,Smart Headphones (Gray),123.93,2024-04-15,2
+10061,1.0,D2YP0J,Portable Headphones (Gray),138.54,2024-04-13,4
+10062,10.0,9ICTHG,Heavy Duty Watch (White),154.92,2024-04-15,1
+10063,5.0,6HUFKK,Smart Speaker (Gray),56.97,2024-04-21,4
+10064,4.0,V0T7LP,Portable Speaker (Red),78.53,2024-04-25,2
+10065,4.0,GECJB7,Heavy Duty Shirt (Blue),144.07,2024-04-03,5
+10066,2.0,0QQ0DZ,Heavy Duty Charger (Red),60.69,2024-04-29,3
+10067,8.0,6EW3U1,Wireless Watch (Gray),78.95,2024-04-12,4
+10068,3.0,Y9P3UT,Smart Watch (Gray),78.75,2024-04-24,2
+10069,,SEC9BU,Gaming Watch (Gray),65.15,2024-04-23,5
+10070,2.0,YTVVWZ,Heavy Duty Charger (Blue),126.95,2024-04-05,3
+10071,6.0,MYIAYY,Wireless Shirt (White),33.53,2024-04-23,2
+10072,6.0,JQ1HVK,Portable Shirt (Red),192.12,2024-03-15 00:00:00,5
+10073,7.0,R67H0Q,Portable Charger (Gray),14.11,2024-04-06,2
+10074,7.0,MLVCMQ,Smart Watch (White),146.34,2024-04-27,1
+10075,1.0,RSSVSX,Portable Speaker (White),22.85,2024-04-27,2
+10076,10.0,S7QZOC,Gaming Speaker (Black),25.21,2024-04-25,1
+10077,7.0,BDRETU,Wireless Watch (Black),130.93,2024-04-01,2
+10078,10.0,Y9HFCI,Wireless Charger (Black),164.6,2024-04-25,5
+10079,7.0,TF63NV,Heavy Duty Charger (Black),117.21,2024-04-01,1
+10080,9.0,WK3B1T,Wireles Headphone (Red),10.04,2024-04-02,3
+10081,10.0,MMD6ZW,Portable Watch (Red),73.49,2024-03-15 00:00:00,4
+10082,8.0,5X30TS,Portable Speaker (Gray),192.16,2024-04-14,5
+10083,6.0,VJ8DHT,Smart Shirt (Red),190.34,2024-04-27,5
+10084,9.0,OW6NJK,Gaming Headphones (Gray),78.06,2024-04-05,2
+10085,10.0,R9Q8BA,Gaming Speaker (Gray),78.82,2024-04-07,2
+10086,9.0,ESGZJU,Portable Watch (Gray),55.0,2024-04-11,1
+10087,10.0,8R8MJ4,Gaming Watch (White),13.73,2024-04-12,4
+10088,2.0,N66YBF,Smart Headphones (Red),86.11,2024-04-17,1
+10089,7.0,X3Q3TZ,Portable Shirt (Black),34.19,2024-04-26,2
+10090,8.0,SVYLQH,Wireless Shirt (Black),115.34,2024-04-25,4
+10091,,ZQFJ0G,Smart Charger (Blue),103.68,2024-04-15,5
+10092,7.0,IPVLFS,Wireless Shirt (Black),143.39,2024-04-07,3
+10093,10.0,GTBBUD,Wireless Headphones (Black),11.54,2024-04-22,3
+10094,,KR03Q0,Portable Speaker (Black),151.62,2024-04-14,3
+10095,5.0,7XGNF2,Portable Headphones (Gray),104.5,2024-04-17,5
+10096,9.0,SCM40H,Wireless Charger (Black),125.32,2024-04-19,3
+10097,9.0,7EQKAW,Smart Headphones (Blue),21.65,2024-04-08,1
+10098,2.0,UTKH0F,Heavy Duty Shirt (Black),143.66,2024-04-08,3
+10099,,0IHYPR,Smart Shirt (Red),113.93,2024-04-25,3
